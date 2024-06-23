@@ -1,0 +1,254 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    width: 100%;
+    height: 190px;
+}
+
+footer{
+    position: unset;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+iframe{
+    width: 100%;
+    height: auto;
+    border-style: none;
+}
+
+h2{
+    font-size: 1.25em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: floralwhite;
+}
+
+p{
+    font-size: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,sans-serif;
+    color: floralwhite;
+}
+h1{
+    font-size: 1.25em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: floralwhite;
+}
+h3{
+    font-size: 1.25em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: floralwhite;
+}
+
+body{
+    background-color: black;
+}
+div{
+    text-align: center;
+}
+.ola {
+    height: 320px;
+    text-align: center;
+}
+@media screen and (max-width:400px) {
+    .ola{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .ola{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .ola{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .tecla{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .tecla{
+        height: 40%;
+    }
+    
+}
+@media screen and (max-width:1200px) {
+    .tecla{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .perro{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .perro{
+        height: 40%;
+    }   
+}
+@media screen and (max-width:1200px) {
+    .perro{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .extintor{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .extentir{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .extintor{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .manzana{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .manzana{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .manzana{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .vaquero{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .vaquero{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .vaquero{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .marzo{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .marzo{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .marzo{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .zeta{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .zeta{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .zeta{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .carlos{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .carlos{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .carlos{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .juan{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .juan{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .juan{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .kike {
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .kike{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .kike{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .luis{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .luis{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .luis{
+        height: 60%;
+    }
+}
+@media screen and (max-width:400px) {
+    .caballo{
+        height: 20%;
+    }
+}
+@media screen and (max-width:800px) {
+    .caballo{
+        height: 40%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .caballo{
+        height: 60%;
+    }
+}
